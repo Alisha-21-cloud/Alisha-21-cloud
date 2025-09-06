@@ -123,20 +123,28 @@ Hi, I'm **Alisha** — a passionate developer who loves building impactful softw
 ---
 
 ### 📂 Featured Repositories
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <a href="https://github.com/Alisha-21-cloud/zyra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-21-cloud&repo=zyra&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Alisha-21-cloud/Noovix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-21-cloud&repo=Noovix&theme=radical" />
-  </a>
-
-  <!-- Add more cards below the same way -->
-  <!-- Just copy and paste another <a> block here -->
-
+<div align="center">
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/Alisha-21-cloud/zyra.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-21-cloud&repo=zyra&theme=radical" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/Alisha-21-cloud/music-generator-f-b">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-21-cloud&repo=music-generator-f-b&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/Alisha-21-cloud/Noovix">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-21-cloud&repo=Noovix&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
