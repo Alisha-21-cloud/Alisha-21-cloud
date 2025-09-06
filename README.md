@@ -120,6 +120,24 @@ Hi, I'm **Alisha** — a passionate developer who loves building impactful softw
   </a>
 </p>
 
+---
+
+### 📂 Featured Repositories
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <a href="https://github.com/Alisha-21-cloud/zyra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-21-cloud&repo=zyra&theme=radical" />
+  </a>
+
+  <a href="https://github.com/Alisha-21-cloud/Noovix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-21-cloud&repo=Noovix&theme=radical" />
+  </a>
+
+  <!-- Add more cards below the same way -->
+  <!-- Just copy and paste another <a> block here -->
+
+</div>
 
 ---
 
