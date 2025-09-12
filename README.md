@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif)](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
 <h1 align="center">Hi 👋, I'm Syed Ahmad Alisha</h1>
 <h3 align="center">
-🚀 MERN Full Stack Developer | 🤖 ML & Python Enthusiast | ⚡ Java DSA Explorer
+🚀 MERN Full Stack Developer | 🤖 AI & ML Enthusiast | ⚡ Java DSA Explorer
 </h3>
 
 ---
