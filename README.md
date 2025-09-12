@@ -156,11 +156,13 @@ Hi, I'm **Alisha** — a passionate developer who loves building impactful softw
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alisha-21-cloud&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisha-21-cloud&theme=radical" alt="top langs" />
 </p>
+
 ---
 
 ### 📊 GitHub Contributions Snake Animation
