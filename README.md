@@ -11,7 +11,7 @@ Hi, I'm **Alisha** — a passionate developer who loves building impactful softw
 
 - 🔭 Currently working on **AI-powered applications**, full-stack projects, and **open-source contributions**.  
 - 🌱 Exploring **Generative AI, Machine Learning (PyTorch & TensorFlow), and scalable cloud solutions**.  
-- 💡 Strong foundation in **DSA, OOP, OS, and DBMS**, with hands-on experience applying them in real projects.  
+- 💡 Strong foundation in **DSA, OOP, OS, CN and DBMS**, with hands-on experience applying them in real projects.  
 - ⚡ Love building with **React, Next.js, React Native, Node.js, and modern frameworks**.  
 - ☁️ Experienced with **AWS, Firebase, Appwrite, Convex, and serverless platforms**.  
 - 📚 Always curious to learn, experiment, and share knowledge through projects & collaboration.  
