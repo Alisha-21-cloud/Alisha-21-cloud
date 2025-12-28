@@ -21,11 +21,6 @@ Hi, I'm **Alisha** — a passionate developer who loves building impactful softw
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ### ⚡ Tech Stack
 
 <details>
@@ -170,10 +165,6 @@ Hi, I'm **Alisha** — a passionate developer who loves building impactful softw
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alisha-21-cloud&limit=5&theme=radical&combine_all_yearly_contributions=true&cache_seconds=1800)
-
----
 
 ### 📊 GitHub Contributions Snake Animation
 
