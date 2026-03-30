@@ -122,33 +122,6 @@ Hi, I'm **Alisha** — a passionate developer who loves building impactful softw
 
 ---
 
-### 📂 Featured Repositories
-<div align="center">
-<table>
-  <tr>
-    <td align="left">
-      <a href="https://github.com/Alisha-21-cloud/zyra.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-21-cloud&repo=zyra&theme=radical" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://github.com/Alisha-21-cloud/music-generator-f-b">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-21-cloud&repo=music-generator-f-b&theme=radical" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <a href="https://github.com/Alisha-21-cloud/Noovix">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-21-cloud&repo=Noovix&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
