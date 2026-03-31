@@ -142,9 +142,9 @@ Hi, I'm **Alisha** — a passionate developer who loves building impactful softw
 ### 📊 GitHub Contributions Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alisha-21-cloud/Alisha-21-cloud/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alisha-21-cloud/Alisha-21-cloud/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/Alisha-21-cloud/Alisha-21-cloud/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marve10s/marve10s/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marve10s/marve10s/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/marve10s/marve10s/output/github-snake.svg" />
 </picture>
 
 ### 📈 GitHub Graph
