@@ -119,7 +119,7 @@ Hey, I'm **Alisha** — a freelance developer turned open-source contributor, ob
 
 <table>
 <tr>
-<td width="420px" valign="top">
+<td width="50%" valign="top">
 
 **better-fullstack** &nbsp;·&nbsp; [better-fullstack.dev](https://better-fullstack.dev/)
 
@@ -137,30 +137,51 @@ Hey, I'm **Alisha** — a freelance developer turned open-source contributor, ob
 ![drizzle-orm](https://img.shields.io/badge/drizzle--orm-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![full-stack](https://img.shields.io/badge/full--stack-6366F1?style=flat-square&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/▶_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marve10s/Better-Fullstack.git)
+[![View PR](https://img.shields.io/badge/▶_View_PR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marve10s/Better-Fullstack/pull/110)
 
 </td>
+<td width="50%" valign="top">
+
+**React** &nbsp;·&nbsp; [react.dev](https://react.dev/)
+
+> The library for web and native user interfaces.
+
+
+![react](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![library](https://img.shields.io/badge/library-6366F1?style=flat-square&logoColor=white)
+![ui](https://img.shields.io/badge/ui-0EA5E9?style=flat-square&logoColor=white)
+![frontend](https://img.shields.io/badge/frontend-FF5D01?style=flat-square&logoColor=white)
+![declarative](https://img.shields.io/badge/declarative-10B981?style=flat-square&logoColor=white)
+
+
+[![View PR](https://img.shields.io/badge/▶_View_PR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/facebook/react/pull/36215)
+
+</td>
+
 </tr>
+
 </table>
+
 
 <br/>
 
 
 ---
 
-### 🏆 GitHub Trophies
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alisha-21-cloud&theme=radical&row=2&column=4&cache_seconds=1800" alt="trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alisha-21-cloud&show_icons=true&theme=radical&cache_seconds=1800" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisha-21-cloud&theme=radical&cache_seconds=1800" alt="top langs" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com/?user=Alisha-21-cloud&theme=radical&hide_border=true" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alisha-21-cloud&theme=radical&hide_border=true&include_all_commits=true" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -175,6 +196,6 @@ Hey, I'm **Alisha** — a freelance developer turned open-source contributor, ob
 
 ### 📈 GitHub Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alisha-21-cloud&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alisha-21-cloud&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
