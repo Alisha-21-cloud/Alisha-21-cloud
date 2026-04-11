@@ -1,5 +1,4 @@
 name: GitHub Snake Game
-
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
@@ -23,7 +22,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Alisha-21-cloud
           # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg
@@ -36,6 +35,10 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          # Optionally, you can set a custom commit message
+          commit_message: "Update snake animation [skip ci]"
           publish_dir: ./dist
           publish_branch: output
           # Optionally, you can set a custom commit message
